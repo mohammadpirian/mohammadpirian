@@ -189,26 +189,17 @@ width="400"
   </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadpiriyan&show_icons=true&locale=en&layout=compact"
-    alt="mohammadpiriyan"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mohammadpiriyan&show_icons=true&locale=en"
-    alt="mohammadpiriyan"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadpiriyan&"
-    alt="mohammadpiriyan"
-  />
-</p>
+## 📊GitHub Stats :
+<div align="center">
+  <a href="">
+    <img src='https://github-readme-stats.vercel.app/api?username=mahdita97&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
+  </a>
+  <br/>
+  <a href="">
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mahdita97&theme=tokyonight&hide_border=true'>
+  </a>
+  <br/>
+  <a href="">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahdita97&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
+  </a>
+</div>
