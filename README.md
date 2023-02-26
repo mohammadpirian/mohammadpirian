@@ -46,3 +46,18 @@ width="400"
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadpiriyan&" alt="mohammadpiriyan" /></p>
 
+## 📊GitHub Stats :
+<div align="center">
+  <a href="">
+    <img src='https://github-readme-stats.vercel.app/api?username=mohammadpiriyan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
+  </a>
+  <br/>
+  <a href="">
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mohammadpiriyan&theme=tokyonight&hide_border=true'>
+  </a>
+  <br/>
+  <a href="">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpiriyan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
+  </a>
+</div>
+
