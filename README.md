@@ -194,15 +194,9 @@ width="400"
 
 ## 📊GitHub Stats :
 <div align="center">
-  <a href="">
-    <img src='https://github-readme-stats.vercel.app/api?username=mahdita97&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
-  </a>
-  <br/>
-  <a href="">
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mahdita97&theme=tokyonight&hide_border=true'>
-  </a>
-  <br/>
-  <a href="">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahdita97&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
-  </a>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammadpiriyan&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadpiriyan&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpiriyan&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
