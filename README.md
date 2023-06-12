@@ -33,7 +33,7 @@ width="400"
 </p>
 
 - 🔭 I’m currently working on **Arizak**
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Node js**
 - 💬 Ask me about **js** 
 - 📫 How to reach me **mohammadpiriyan@gmail.com**
 
