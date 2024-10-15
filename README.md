@@ -4,7 +4,7 @@
 
 
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
-  Welcome to Mohammadpiriyan profile!
+  Welcome to mohammadpirian profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -25,25 +25,25 @@ width="400"
 />
 
 <p align="left">
-  <a href="https://twitter.com/mohammadpiriyan" target="blank"
+  <a href="https://twitter.com/mohammadpirian" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/@mohammadpiriyan?logo=twitter&style=for-the-badge"
-      alt="@mohammadpiriyan"
+      src="https://img.shields.io/twitter/follow/@mohammadpirian?logo=twitter&style=for-the-badge"
+      alt="@mohammadpirian"
   /></a>
 </p>
 
 - 🔭 I’m currently working on **Arizak**
 - 🌱 I’m currently learning **Node js**
 - 💬 Ask me about **js** 
-- 📫 How to reach me **mohammadpiriyan@gmail.com**
+- 📫 How to reach me **mohammadpirian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mohammadpiriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohammadpiriyan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammadpiriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadpiriyan" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadpiriyan" height="30" width="40" /></a>
-<a href="https://dribbble.com/mohammadpiriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohammadpiriyan" height="30" width="40" /></a>
-<a href="https://www.behance.net/mohammadpiriyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammadpiriyan" height="30" width="40" /></a>
+<a href="https://twitter.com/@mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohammadpirian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadpirian" height="30" width="40" /></a>
+<a href="https://instagram.com/mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammadpirian" height="30" width="40" /></a>
+<a href="https://dribbble.com/mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mohammadpirian" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohammadpirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohammadpirian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,15 +53,15 @@ width="400"
 ## 📊GitHub Stats :
 <div align="center">
   <a href="">
-    <img src='https://github-readme-stats.vercel.app/api?username=mohammadpiriyan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
+    <img src='https://github-readme-stats.vercel.app/api?username=mohammadpirian&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true'>
   </a>
   <br/>
   <a href="">
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mohammadpiriyan&theme=tokyonight&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=mohammadpirian&theme=tokyonight&hide_border=true'>
   </a>
   <br/>
   <a href="">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpiriyan&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadpirian&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
   </a>
 </div>
 
